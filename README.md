@@ -80,8 +80,8 @@ Specifically we hypothesize that:
 <!-- FIGURE 1 -->
 <br />
 <div align="left">
-  <a href="https://github.com/ilamatos/xylem_implosion_safety">
-    <img src="figures/Figure_1.png" alt="Logo" width="2500" height="500">
+  <a href="https://github.com/helena-roland/Non-Additive-Effects-on-Plant-Mixtures-Flammability-in-a-Tropical-Mountain-Ecosystem">
+    <img src="images/figura ultima versao.png" alt="Logo" width="2500" height="500">
   </a>
 
 <h3 align="left">Figure 1</h3>
