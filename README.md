@@ -178,22 +178,36 @@ Project Link: [https://github.com/helena-roland/Non-Additive-Effects-on-Plant-Mi
 <!-- REFERENCES -->
 ## References
 
-* []()Benjamini Y and Hochberg Y (1995) Journal of the Royal Statistical Society Series B
-* []()Blackman CJ et al (2010) New Phytologist
-* []()Blackman CJ et al (2018) Annals of Botany
-* []()Brodribb TJ and Holbrook MN (2005) Plant Physiology
-* []()Escheverria A et al (2022) American Journal of Botany
-* []()Hacke UG et al (2001) Oecologia 
-* []()Hacke UG et al (2004) American Journal of Botany
-* []()Jacobson AL et al (2005) Plant Physiology
-* []()Pittermann J et al (2016) Plant Cell and Environment
-* []()Pratt RB and Jacobsen AL (2017)
-* []()R Foundation for Statistical Computing (2023) Plant Cell and Environment
-* []()Sperry JS (2003) International Journal of Plant Sciences
-* []()Sperry JS and Hacke UG (2004) American Journal of Botany
-* []()Sperry JS et al (2006) American Journal of Botany
-* []()Warton DI et al (2011) Methods in Ecology and Evolution
-* []()Zhang YJ et al (2023) New Phytologist
+* []()Alam et al. (2020) Journal of Ecology
+* []()Anderson (1970) Fire Technology
+* []()Aximoff and Rodrigues (2011) Ciência Florest,
+* []()Bond and Keeley (2005) Trends in Ecology & Evolution
+* []()Bowman et al. (2009) Science
+* []()Boving et al. (2023) Functional Ecology
+* []()Cardoso et al. (2018)  Frontiers in forests and global change
+* []()de Magalhaes and Schwilk (2012) Journal of Ecology
+* []()Gill and Zylstra (2005) Austral Ecology
+* []()Grootemaat et al. (2015) Functional Ecology
+* []()Hantson et al. (2022) Nature communications
+* []()Hooper et al. (2005) Ecological Monographs,
+* []()ICMBio (2023) https://www.gov.br/icmbio/pt-br/centrais-de-conteudo/publicacoes/planos-de-manejo-integrado-do fogo/PMIFParnadoItatiaia_compressed.pdf
+* []()Keeley (2009) International journal of wildland fire
+* []() Lyra et al. (2018) Theoretical and Applied Climatology
+* []()Murray et al. (2013) PLoS One
+* []()Oliveras et al. (2016) Philosophical Transactions of the Royal Society B: Biological Sciences
+* []()Parsons et al. (2015) International journal of wildland fire
+* []()Pausas et al. (2017) Journal of Ecology
+* []()Petchey et al. (2004) Ecology
+* []() Pérez-Harguindeguy et al. (2013) Australian Journal of Botany
+* []()Rego et al. (2021) Fire Science: From Chemistry to Landscape Management. Springer
+* []()Safford (2001) Biotropica
+* []()Safford et al. (1999a) Journal of Biogeography
+* []() Scott et al. (2013) Fire on Earth: An Introduction. Wiley-Blackwell.
+* []() Stevens et al. (2020) Annual Review of Environment and Resources
+* []()Tilman et al. (1997) Science
+* []()van Altena et al. (2012) Frontiers in Plant Science
+* []()van der Werf et al. (2017) Earth System Science Data
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
